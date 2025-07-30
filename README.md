@@ -1,5 +1,5 @@
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h1 style="display: inline-block">👨‍💻olá! eu me chamo kayke 👋</h1></summary>
 </div>
 
